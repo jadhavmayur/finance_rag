@@ -1,5 +1,5 @@
 # finance_rag
-
+ ![Alt text](flow.jpg)
 ### API Postman request data
 - POST: Login http://localhost:5000/login
 
