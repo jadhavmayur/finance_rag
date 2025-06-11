@@ -1,5 +1,11 @@
 # finance_rag
  ![Alt text](flow.jpg)
+
+### How to run app
+ - flask --app app.py run
+   
+ - python app.py
+   
 ### API Postman request data
 - POST: Login http://localhost:5000/login
 
